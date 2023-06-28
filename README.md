@@ -18,9 +18,8 @@ I am a masters student in Speech and Language Processing at University of Edinbu
 
  <br/>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lordzuko&show_icons=true&theme=dark&locale=en&layout=compact" alt="lordzuko" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=lordzuko&count_private=true&theme=dark&hide_title=true&show_icons=true&locale=en" alt="lordzuko" /></p>
+<p><img align="center" src="https://github-readme-stats-6gd4a49iq-lordzuko.vercel.app/api?username=lordzuko&count_private=true&theme=dark&hide_title=true&show_icons=true&locale=en" alt="lordzuko" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lordzuko&theme=dark" alt="lordzuko" /></p>
 
