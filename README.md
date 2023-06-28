@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on **research projects in Natural Language Processing, Speech Processing**
 
 - 📫 How to reach me **lordzuko.research@gmail.com**
-- 📄 Know about my experiences by checking out my ![portfolio](https://lordzuko.github.io/)
+- 📄 Know about my experiences by checking out my [portfolio](https://lordzuko.github.io/)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lordzuko&show_icons=true&theme=dark&locale=en&layout=compact" alt="lordzuko" /></p>
 
