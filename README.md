@@ -25,4 +25,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lordzuko&theme=dark" alt="lordzuko" /></p>
 
+<br/>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lordzuko&label=Profile%20views&color=0e75b6&style=flat" alt="lordzuko" /> </p>
