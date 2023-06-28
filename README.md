@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Himanshu Maurya</h1>
-<h3 align="center">Hi, there 👋. My name is Himanshu Maurya. I am a masters student in Speech and Language Processing at University of Edinburgh. I am also a Mentor-Reviewer @udacity School of Artificial Intelligence and an Ex-Lead Machine Learning Engineer @iSchoolConnect.</h3>
+<h3 align="center">I am a masters student in Speech and Language Processing at University of Edinburgh. I am also a Mentor-Reviewer @udacity School of Artificial Intelligence and an Ex-Lead Machine Learning Engineer @iSchoolConnect.</h3>
 
 - 🔭 I’m currently working on **exploring and learning generative modeling**
 
