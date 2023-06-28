@@ -21,10 +21,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=lordzuko&count_private=true&theme=dark&hide_title=true&show_icons=true&locale=en" alt="lordzuko" /></p>
 
-<br/>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lordzuko&theme=dark" alt="lordzuko" /></p>
-
-<br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lordzuko&label=Profile%20views&color=0e75b6&style=flat" alt="lordzuko" /> </p>
