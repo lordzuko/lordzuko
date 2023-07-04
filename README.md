@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Himanshu Maurya</h1>
+<h1 align="center">Hi 👋, I'm Himanshu</h1>
 
 I am a masters student in Speech and Language Processing at University of Edinburgh. I am also a Mentor-Reviewer [@udacity](https://www.udacity.com/) School of Artificial Intelligence and an Ex-Lead Machine Learning Engineer [@iSchoolConnect](https://ischoolconnect.com/en/).
 
