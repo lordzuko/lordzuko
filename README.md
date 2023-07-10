@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Himanshu</h1>
 
-I am a masters student in Speech and Language Processing at University of Edinburgh. I am also a Mentor-Reviewer [@udacity](https://www.udacity.com/) School of Artificial Intelligence and an Ex-Lead Machine Learning Engineer .
-
 I am a master's student in Speech and Language Processing at the University of Edinburgh. I am also a Mentor-Reviewer at [@udacity](https://www.udacity.com/) School of Artificial Intelligence and an Ex-Lead Machine Learning Engineer at [@iSchoolConnect](https://ischoolconnect.com/en/).
 - 🔭 I’m currently working on **exploring and learning generative modeling**
 
