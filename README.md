@@ -18,8 +18,8 @@ I am a master's student in Speech and Language Processing at the University of E
  <br/>
 
 
-<p><img align="center" src="https://github-readme-stats-6gd4a49iq-lordzuko.vercel.app/api?username=lordzuko&count_private=true&theme=dark&hide_title=true&show_icons=true&locale=en" alt="lordzuko" /></p>
+<p><img align="center" src="https://github-readme-stats-6gd4a49iq-lordzuko.vercel.app/api?username=lordzuko&count_private=true&theme=light&hide_title=true&show_icons=true&locale=en" alt="lordzuko" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lordzuko&theme=dark" alt="lordzuko" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lordzuko&theme=light" alt="lordzuko" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lordzuko&label=Profile%20views&color=0e75b6&style=flat" alt="lordzuko" /> </p>
